@@ -27,4 +27,4 @@ I made this Finance Dashboard in Power BI with the Finance Excel Workbook provid
 - To use it hold CTRL and then click it to reset the Slicer's.
 
 
-https://github.com/Mounojitd/FINANCIAL-DASHBOARD-BY-Mounojit/blob/main/Screenshot%202024-08-01%20115525.png
+https://github.com/Screenshot%202024-08-01%20115525.png
